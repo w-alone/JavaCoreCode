@@ -3,7 +3,7 @@ package set;
 import java.util.*;
 
 /**
- *This program use a set to print all unique words in "System.in";
+ *This program use a set to print all unique words in " System.in";
  *@version 2018-1-3
  *@author w-alone 
  */
