@@ -1,6 +1,6 @@
 package algorithm;
 import java.util.*;
-
+//-----
 public class sieve{
 	public static void main(String[] args) {
 		int n = 2000000;
